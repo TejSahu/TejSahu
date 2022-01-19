@@ -4,9 +4,8 @@
 
 #### 🌱 Currently trying to learn Python, Git and whatever I find interesting and  put it out there which might help others as well.
 
-#### ⚡ Favourite Quote
-
-    “Do what you gotta do so you can do what you wanna do.” – Denzel Washington.
+#### ⚡ Favourite Quote 
+“Do what you gotta do so you can do what you wanna do.” – Denzel Washington
 
 <!--
 **TejSahu/TejSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
