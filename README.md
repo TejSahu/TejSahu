@@ -2,7 +2,7 @@
 
 #### 🔭 I am currently working as an Associate in [Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank) looking after critical applications which are used by Traders to execute [Repo](https://en.wikipedia.org/wiki/Repurchase_agreement) trades.
 
-#### 🌱 Currently trying to learn Python, Git and several other technologies I find interesting
+#### 🌱 Currently trying to learn Python, Git and whatever I find interesting and  put it out there which might help others as well.
 
 <!--
 **TejSahu/TejSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
