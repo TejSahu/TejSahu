@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 😊, My name is Tej.
+
+#### 🔭 I am currently working as an Associate in [Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank) looking after critical applications which are used by Traders to execute [Repo](https://en.wikipedia.org/wiki/Repurchase_agreement) trades.
+
+#### 🌱 Currently trying to learn Python, Git and several other technologies I find interesting
 
 <!--
 **TejSahu/TejSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
