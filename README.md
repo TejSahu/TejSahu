@@ -2,7 +2,7 @@
 
 #### 🔭 I am currently working as an Associate in [Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank) looking after critical applications which are used by Traders to execute [Repo](https://en.wikipedia.org/wiki/Repurchase_agreement) trades.
 
-#### 🌱 Currently trying to learn Python, Git and whatever I find interesting and  put it out there which might help others as well.
+####  🌱 Trying to learn Python, Git, Docker, Jenkins, Ansible and put it out there which might help others as well.
 
 #### ⚡ Favourite Quote 
 “Do what you gotta do so you can do what you wanna do.” – Denzel Washington
