@@ -5,7 +5,7 @@
 ####  🌱 Trying to learn Python, Git, Docker, Jenkins, Ansible and put it out there which might help others as well.
 
 #### ⚡ Favourite Quote 
-## “Do what you gotta do so you can do what you wanna do.” – Denzel Washington
+### “Do what you gotta do so you can do what you wanna do.” – Denzel Washington
 
 <!--
 **TejSahu/TejSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
